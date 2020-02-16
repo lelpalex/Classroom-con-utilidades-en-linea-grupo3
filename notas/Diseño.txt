@@ -1,0 +1,9 @@
+Frontend:Lenguaje css, bootstrap, html
+
+Base de datos, sql lite
+
+Backend: python php
+
+Servidor; alguno gratis
+
+interfaces visual studio community y code

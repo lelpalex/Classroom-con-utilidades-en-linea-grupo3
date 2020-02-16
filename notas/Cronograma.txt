@@ -1,0 +1,31 @@
+Cronograma borrador, luego se hara algo mas organizado en una herramienta mas apropiada 
+
+planear con 2 semanas de holgura
+
+Nota: planear parte de programacion y pruebas
+
+semana 1 06-02-2020
+	-Inicio de la materia
+	-Presentacion
+	-Discusion del proyecto
+	-Creacion de grupos
+	-Identificacion de fortalezas y debilidades de los miembros de cada grupo
+
+Semana 2 13-02-2020
+	-Asignacion del proyecto(Desarrollo de un classroom con utilidades)
+	-Analisis de requisitos
+	-Asignacion del modelo de desarrollo(Cascada o secuencial)
+	-Asignacion de herramientas y lenguajes para el proyecto
+	-Discucion sobre metologias y modelos 
+	-Investigar sobre el proyecto asignado
+	-Aprendizaje de conceptos de ing del software
+	-Inicio de aprendizaje de los lenguajes
+	-Aprendizaje de git y github(Abrir cuentas!)
+	-Aprender sobre el modelo cascada 
+	-Inicio de ambientacion de los computadores para el desarrollo
+	-Construir diagrama
+
+
+semana 3 20-02-2020
+
+

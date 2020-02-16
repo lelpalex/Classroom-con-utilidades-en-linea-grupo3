@@ -1,0 +1,10 @@
+Online
+
+	*Compilar
+	*Subi proyectos
+	*comentarios
+	*login
+	*espacio para que el profesor pueda subir clases(texto,multimedia,imagenes)
+	 que su rendimiento permita hasta 50 conexiones simultaneas
+	*Se requiere un servidor web, con la conexion a internet estable y alta velocidad de subida y hardware dedicado
+

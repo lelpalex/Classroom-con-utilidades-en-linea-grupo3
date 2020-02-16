@@ -1,0 +1,8 @@
+Elaborar una plataforma web que facilite a los profesores
+y estudiantes la realizacion, presentacion de proyectos
+
+Permitir al profesor importar archivos web que sea de utilidad a sus alumnos
+
+Permitir a los alumnos compilar codigo fuente en la plataforma desde cualquier lugar mediante la conexion de internet
+
+Permitir el uso mensajeria entre alumnos-profesor
